@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584447750 source:c:\users\anja\documents\ass2_oop\main.cpp
+	<iostream>
+	"ArrayChar.h"
+
+1584567240 c:\users\anja\documents\ass2_oop\include\arraychar.h
+	<string.h>
+	<iostream>
+
+1584447796 source:c:\users\anja\documents\ass2_oop\src\arraychar.cpp
+	"ArrayChar.h"
+	<iostream>
+
